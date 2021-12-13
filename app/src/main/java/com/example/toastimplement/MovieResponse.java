@@ -25,6 +25,7 @@ public class MovieResponse {
      * No args constructor for use in serialization
      *
      */
+
     public MovieResponse() {
     }
 
